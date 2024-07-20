@@ -22,4 +22,4 @@ Overall, the best performing model reached an accuracy of 98.9% running on a Ran
 ![image](https://github.com/user-attachments/assets/13f736e9-c464-42fc-9963-a9680be2a622)
 
 ## Citation
-Please cite if this work is used for research/industrial purposes.
+Please cite this work if used for research/industrial purposes.
