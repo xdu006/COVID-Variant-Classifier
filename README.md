@@ -1,4 +1,4 @@
-# COVID 19 Variant Classifer
+# COVID 19 Variant Classifer (98.9% accuracy)
 
 ## Intro
 SARS-COV2 (COVID-19) impacted modern society in an unprecedented way, changing
